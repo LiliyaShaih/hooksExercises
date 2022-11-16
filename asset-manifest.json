@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hooksExercises/static/css/main.6db5275d.chunk.css",
+    "main.js": "/hooksExercises/static/js/main.b7faaf08.chunk.js",
+    "main.js.map": "/hooksExercises/static/js/main.b7faaf08.chunk.js.map",
+    "runtime-main.js": "/hooksExercises/static/js/runtime-main.c356b38f.js",
+    "runtime-main.js.map": "/hooksExercises/static/js/runtime-main.c356b38f.js.map",
+    "static/css/2.eca2297d.chunk.css": "/hooksExercises/static/css/2.eca2297d.chunk.css",
+    "static/js/2.6e780b2c.chunk.js": "/hooksExercises/static/js/2.6e780b2c.chunk.js",
+    "static/js/2.6e780b2c.chunk.js.map": "/hooksExercises/static/js/2.6e780b2c.chunk.js.map",
+    "static/js/3.c02b65d4.chunk.js": "/hooksExercises/static/js/3.c02b65d4.chunk.js",
+    "static/js/3.c02b65d4.chunk.js.map": "/hooksExercises/static/js/3.c02b65d4.chunk.js.map",
+    "index.html": "/hooksExercises/index.html",
+    "static/css/2.eca2297d.chunk.css.map": "/hooksExercises/static/css/2.eca2297d.chunk.css.map",
+    "static/css/main.6db5275d.chunk.css.map": "/hooksExercises/static/css/main.6db5275d.chunk.css.map",
+    "static/js/2.6e780b2c.chunk.js.LICENSE.txt": "/hooksExercises/static/js/2.6e780b2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c356b38f.js",
+    "static/css/2.eca2297d.chunk.css",
+    "static/js/2.6e780b2c.chunk.js",
+    "static/css/main.6db5275d.chunk.css",
+    "static/js/main.b7faaf08.chunk.js"
+  ]
+}
